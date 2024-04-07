@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJs and ExpressJs projects**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I'm looking for help with **Web Development**
 
 - 💬 Ask me about **Web Development**
 
