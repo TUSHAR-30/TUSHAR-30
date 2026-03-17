@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img align="left" height="45" src="https://res.cloudinary.com/ddgxg7b72/image/upload/v1773745019/work-office_1_y887pw.gif"  />
+<img align="left" height="56" src="https://res.cloudinary.com/ddgxg7b72/image/upload/v1773745019/work-office_1_y887pw.gif"  />
 
 ###
 
