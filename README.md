@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="left" height="59" src="https://res.cloudinary.com/ddgxg7b72/image/upload/v1773743996/reaction-monday_lqilth.gif"  />
+<img align="left" height="50" src="https://res.cloudinary.com/ddgxg7b72/image/upload/v1773743996/reaction-monday_lqilth.gif"  />
 
 ###
 
@@ -26,13 +26,33 @@
 
 ###
 
+<h3 align="left">🎯 What I'm Working On</h3>
+
+###
+
+<h4 align="left">Portfolio Generator</h4>
+
+###
+
+<p align="left">• Secure authentication and authorization system<br>• Modular, scalable architecture<br>• Intuitive UI/UX workflows</p>
+
+###
+
+<h4 align="left">Currently Exploring:</h4>
+
+###
+
+<p align="left">• Scalable backend architectures<br>• Distributed systems and microservices<br>• Cloud-native development practices<br>• CI/CD Pipelines</p>
+
+###
+
 <br clear="both">
 
 <img align="left" height="56" src="https://res.cloudinary.com/ddgxg7b72/image/upload/v1773745019/work-office_1_y887pw.gif"  />
 
 ###
 
-<h1 align="left">My Toolbox</h1>
+<h1 align="left">Tech Stack</h1>
 
 ###
 
@@ -97,6 +117,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
 </div>
+
+###
+
+<h4 align="left">Core Technologies:</h4>
+
+###
+
+<p align="left">• Frontend: React.js, Tailwind CSS, Three.js<br>• Backend: Node.js, Express, RESTful APIs, WebSockets<br>• Database: MongoDB, Redis<br>• DevOps: Docker, Git, CI/CD, AWS</p>
 
 ###
 
