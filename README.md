@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🎯 What I'm Working On</h3>
+<h3 align="center">🎯 What I'm Working On</h3>
 
 ###
 
